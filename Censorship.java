@@ -1,6 +1,6 @@
 import java.util.List;
 
-class CensorshipSolution {
+class Censorship {
 
     public static String[] censor(List<String> sentences, String word) {
 
